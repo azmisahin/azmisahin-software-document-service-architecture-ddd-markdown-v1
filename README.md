@@ -19,6 +19,8 @@ examples of repo and domain configuration for service software.
 |       |        |              |          |          |         |                  |                   |            |         |
 | 401.  | com    | azmisahin    | software | web      | service | monitor          | prometheus        | go         | v1      |
 | 402.  | com    | azmisahin    | software | web      | service | analytics        | grafana           | typescript | v1      |
+| 403.  | com    | azmisahin    | software | web      | service | monitor          | pgadmin           | python     | v1      |
+| 404.  | com    | azmisahin    | software | web      | service | monitor          | swagger-ui        | javascript | v1      |
 |       |        |              |          |          |         |                  |                   |            |         |
 | 501.  | com    | azmisahin    | software | web      | service | gateway          | apisix            | lua        | v1      |
 | 502.  | com    | azmisahin    | software | web      | service | rest             | postgrest         | heskell    | v1      |
