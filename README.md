@@ -19,12 +19,14 @@ examples of repo and domain configuration for service software.
 |       |        |              |          |          |         |                  |                   |            |         |
 | 401.  | com    | azmisahin    | software | web      | service | monitor          | prometheus        | go         | v1      |
 | 402.  | com    | azmisahin    | software | web      | service | analytics        | grafana           | typescript | v1      |
+| 403.  | com    | azmisahin    | software | web      | service | management       | pgadmin4          | python     | v1      |
 |       |        |              |          |          |         |                  |                   |            |         |
 | 501.  | com    | azmisahin    | software | web      | service | gateway          | apisix            | lua        | v1      |
 | 502.  | com    | azmisahin    | software | web      | service | rest             | postgrest         | heskell    | v1      |
 | 503.  | com    | azmisahin    | software | web      | service | rpc              | grpc              | cplusplus  | v1      |
 | 504.  | com    | azmisahin    | software | web      | service | worker           | worker            | csharp     | v1      |
 | 505.  | com    | azmisahin    | software | web      | service | connector        | wcf               | csharp     | v1      |
+| 505.  | com    | azmisahin    | software | web      | service | accounts         | microservice      | javascript | v1      |
 |       |        |              |          |          |         |                  |                   |            |         |
 | 601.  | com    | azmisahin    | software | web      | api     | document         | application       | markdown   | v1      |
 | 602.  | com    | azmisahin    | software | web      | api     | portal           | application       | typescript | v1      |
