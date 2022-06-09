@@ -35,6 +35,7 @@ examples of repo and domain configuration for service software.
 |       |        |              |          |          |         |                  |                   |            |         |
 | 701.  | com    | azmisahin    | hardware | risc     | os      | connector        | application       | c          | v1      |
 | 702.  | com    | azmisahin    | hardware | web      | server  | decoding         | application       | cplusplus  | v1      |
+| 703.  | com    | azmisahin    | software | web      | server  | authentication   | oauth             | go         | v1      |
 |       |        |              |          |          |         |                  |                   |            |         |
 | 801.  | com    | azmisahin    | software | web      | package | authentication   | nodejs-passportjs | javascript | v1      |
 | 802.  | com    | azmisahin    | software | web      | package | sql-connector    | nodejs-sqlite     | javascript | v1      |
